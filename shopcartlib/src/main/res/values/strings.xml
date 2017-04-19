@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopCartLib</string>
+    <string name="str_hintText">加入购物车</string>
+    <string name="str_replenishText">补货中</string>
+</resources>
